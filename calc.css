@@ -1,0 +1,29 @@
+.wrapper{
+	margin: 100px 410px 200px 410px;
+	border-style: ridge;
+	padding: 40px;
+}
+
+.innerbox{
+	padding: 20px;
+	margin: 30px;
+	border-style: ridge;
+}
+
+.box{
+	margin: 10px;
+	padding: 5px;
+
+}
+
+.input{
+	
+	height: 50px
+}
+
+#ans{
+	margin: 10px;
+	padding: 5px;
+	border-style: ridge;
+	height: 50px;
+}
